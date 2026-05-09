@@ -283,8 +283,6 @@ Contributions are welcome!
 🚀 Full Stack Developer | AI Enthusiast | Problem Solver
 
 * GitHub: [https://github.com/Var1035](https://github.com/Var1035)
-* LinkedIn: Add Your LinkedIn Here
-* Portfolio: Add Your Portfolio Here
 
 ---
 
